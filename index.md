@@ -4,69 +4,30 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kaist.ac.kr/). During my master's, I was a member of the [Information Retrieval & Natural Language Processing lab, KAIST](http://ir.kaist.ac.kr/). My research interests are mostly related to Natural Language Processing area: Question Answering, Multilingual Representation, and Low-Resource Language.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Proceedings of the 13th International Conference on Computational Semantics. **IWCS 2019**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  [[PDF](https://www.aclweb.org/anthology/W19-0412.pdf)] [[Code](https://github.com/rifkiaputri/Relation-Aligner)] <strong><i style="color:#e74d3c">Long Paper</i></strong>
+  
+- **Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Rifki Afina Putri**, Dessi Puji Lestari
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  The 5th International Conference on Electrical Engineering and Informatics. **ICEEI 2015**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://ieeexplore.ieee.org/document/7352471)] [[Code](https://github.com/rifkiaputri/MidiMatcher)]
 
 
-## Selected Talks
+## References
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  NeurIPS Official Meetups
-  <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
-
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  School of Computing, National University of Singapore
-  <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
-
-## Services
-
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- [Prof. Alice Oh](https://aliceoh9.github.io/). School of Computing, KAIST, Republic of Korea.
+- [Prof. Sung-Hyon Myaeng](http://ir.kaist.ac.kr/member/professor/). School of Computing, KAIST, Republic of Korea.
+- Dessi Puji Lestari S.T., M.Eng., Ph.D. Informatics/Computer Science - School of Electrical Engineering and Informatics, ITB, Indonesia.
