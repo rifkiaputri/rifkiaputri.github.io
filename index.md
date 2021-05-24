@@ -8,21 +8,21 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 
 ## Education
-- Ph.D. in School of Computing, KAIST, Republic of Korea. 2020--current
+- Ph.D. in School of Computing, KAIST, Republic of Korea. 2020--current.
   <br>
   Advisor: Prof. Alice Oh
-- M.S. in School of Computing, KAIST, Republic of Korea. 2017-2019.
+- M.S. in School of Computing, KAIST, Republic of Korea. 2017--2019.
   <br>
   Advisor: Prof. Sung-Hyon Myaeng
-- B.S. in Informatics/Computer Science, ITB, Indonesia. 2011-2015.
+- B.S. in Informatics/Computer Science, ITB, Indonesia. 2011--2015.
   <br>
   Advisor: Dessi Puji Lestari S.T., M.Eng., Ph.D.
 
 
 ## Work Experiences
-- NLP/AI Engineer at [Prosa.ai](https://prosa.ai/). Apr 2019-Jul 2020.
-- Software Engineer at [Urbanindo](https://urbanindo.com/). Sep 2015-Feb 2017.
-- Intern Programmer at [NoLimit](https://nolimit.id/). Jun 2014-Jul 2014.
+- NLP/AI Engineer at [Prosa.ai](https://prosa.ai/). Apr 2019--Jul 2020.
+- Software Engineer at [Urbanindo](https://urbanindo.com/). Sep 2015--Feb 2017.
+- Intern Programmer at [NoLimit](https://nolimit.id/). Jun 2014--Jul 2014.
 
 
 ## Publications
