@@ -8,8 +8,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 
 ## Education
-- Ph.D. in School of Computing, KAIST, Republic of Korea
-  2020--current
+- Ph.D. in School of Computing, KAIST, Republic of Korea. 2020--current
   <br>
   Advisor: Prof. Alice Oh
 - M.S. in School of Computing, KAIST, Republic of Korea. 2017-2019.
