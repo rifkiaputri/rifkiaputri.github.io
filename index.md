@@ -19,7 +19,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   2017--2019
   <br>
   Advisor: Prof. Sung-Hyon Myaeng
-- B.S. in Informatics/Computer Science, ITB, Indonesia
+- B.Eng. in Informatics/Computer Science, ITB, Indonesia
   <br>
   2011--2015
   <br>
