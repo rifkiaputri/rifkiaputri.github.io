@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kaist.ac.kr/). During my master's, I was a member of the [Information Retrieval & Natural Language Processing lab, KAIST](http://ir.kaist.ac.kr/). My research interests are mostly related to Natural Language Processing area: Question Answering, Low-Resource Languages, and Multilingual Representation.
+Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/). During my master's, I was a member of the [Information Retrieval & Natural Language Processing lab, KAIST](http://ir.kaist.ac.kr/). My research interests are mostly related to Natural Language Processing area: Question Answering, Low-Resource Languages, and Multilingual Representation.
 
 
 ## Education
