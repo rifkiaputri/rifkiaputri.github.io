@@ -4,26 +4,25 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/). During my master's, I was a member of the [Information Retrieval & Natural Language Processing lab, KAIST](http://ir.kaist.ac.kr/). My research interests are mostly related to Natural Language Processing area: Question Answering, Low-Resource Languages, and Multilingual Representation.
-
+Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/). My current research interests are Natural Language Processing, especially in the area of question answering and low-resource languages.
 
 ## Education
 
 - Ph.D. in School of Computing, KAIST, South Korea
   <br>
-  2020--current
+  Sep 2020--current
   <br>
-  Advisor: Prof. Alice Oh
+  Advisor: Alice Oh
 - M.S. in School of Computing, KAIST, South Korea
   <br>
-  2017--2019
+  Mar 2017--Feb 2019
   <br>
-  Advisor: Prof. Sung-Hyon Myaeng
+  Advisor: Sung-Hyon Myaeng
 - B.Eng. in Informatics/Computer Science, ITB, Indonesia
   <br>
-  2011--2015
+  Aug 2011--Jul 2015
   <br>
-  Advisor: Dessi Puji Lestari, S.T., M.Eng., Ph.D.
+  Advisor: Dessi Puji Lestari
 
 
 ## Work Experiences
@@ -60,7 +59,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 ## References
 
-- [Prof. Alice Oh](https://aliceoh9.github.io/). School of Computing, KAIST, South Korea.
-- [Prof. Sung-Hyon Myaeng](http://ir.kaist.ac.kr/member/professor/). School of Computing, KAIST, South Korea.
-- Dessi Puji Lestari, S.T., M.Eng., Ph.D. Informatics/Computer Science - School of Electrical Engineering and Informatics, ITB, Indonesia.
-- Dr. Eng. Ayu Purwarianti, ST., MT. Prosa.ai.
+- [Alice Oh](https://aliceoh9.github.io/). School of Computing, KAIST, South Korea.
+- [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/member/professor/). School of Computing, KAIST, South Korea.
+- Dessi Puji Lestari. Informatics/Computer Science - School of Electrical Engineering and Informatics, ITB, Indonesia.
+- Ayu Purwarianti. Prosa.ai.
