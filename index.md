@@ -6,6 +6,7 @@ layout: homepage
 
 Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/). My current research interests are Natural Language Processing, especially in the area of question answering and low-resource languages.
 
+
 ## Education
 
 - Ph.D. in School of Computing, KAIST, South Korea
@@ -25,6 +26,24 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   Advisor: Dessi Puji Lestari
 
 
+## Publications
+- **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
+  <br>
+  [PDF][[Code](https://github.com/rifkiaputri/IDK-MRC)]
+
+- Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (2022, Under Review)
+  <br>
+  [[arXiv](https://arxiv.org/abs/2210.06828)]
+
+- **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng. _"Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"_ (IWCS 2019, Long Paper)
+  <br>
+  [[PDF](https://www.aclweb.org/anthology/W19-0412.pdf)] [[Code](https://github.com/rifkiaputri/Relation-Aligner)]
+  
+- **Rifki Afina Putri**, Dessi Puji Lestari. _"Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping"_ (ICEEI 2015)
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/document/7352471)] [[Code](https://github.com/rifkiaputri/MidiMatcher)]
+
+
 ## Work Experiences
 
 - NLP/AI Engineer at [Prosa.ai](https://prosa.ai/)
@@ -36,33 +55,14 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 - Intern Programmer at [NoLimit](https://nolimit.id/)
   <br>
   Jun 2014--Jul 2014
-
-
-## Publications
-- **Rifki Afina Putri**, Alice Oh, _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022)
-  <br>
-  [PDF][[Code](https://github.com/rifkiaputri/IDK-MRC)] <strong><i style="color:#e74d3c">Long Paper</i></strong>
-
-- Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, _"Rethinking Annotation: Can Language Learners Contribute?"_ (Under Review)
-  <br>
-  [[arXiv](https://arxiv.org/abs/2210.06828)]
-
-- **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng, _"Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"_ (IWCS 2019)
-  <br>
-  [[PDF](https://www.aclweb.org/anthology/W19-0412.pdf)] [[Code](https://github.com/rifkiaputri/Relation-Aligner)] <strong><i style="color:#e74d3c">Long Paper</i></strong>
   
-- **Rifki Afina Putri**, Dessi Puji Lestari, _"Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping"_ (ICEEI 2015)
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/7352471)] [[Code](https://github.com/rifkiaputri/MidiMatcher)]
-
-
+  
 ## Teaching & Talks Experiences
-- Teaching Assistant of CS475 Machine Learning for Natural Language Processing at KAIST (Fall 2022)
-- Guest Lecture of IF5182 Knowledge Representation and Reasoning at ITB (April 2021)
-- Speaker of Facebook Developer Circle Bandung November 2019 Meetup, Facebook APAC Panel Discussion: Women in Tech
-- Guest Lecture of IF5282 Natural Language Processing course at ITB (March 2019) 
-- Head Teaching Assistant of IF3250 Software Project course at ITB (Spring 2015)
-- Teaching Assistant of IF2036 Software Engineering & IF3150 Software Project Management courses at ITB (Spring 2014, Fall 2014)
+- Teaching Assistant of _CS475 Machine Learning for Natural Language Processing_ course at KAIST (Fall 2022)
+- Guest Lecture of _IF5282 Natural Language Processing_ & _IF5182 Knowledge Representation and Reasoning_ courses at ITB (March 2019, April 2021)
+- Speaker of _Facebook Developer Circle Bandung November 2019 Meetup_, Facebook APAC Panel Discussion: Women in Tech (November 2019)
+- Head Teaching Assistant of _IF3250 Software Project_ course at ITB (Spring 2015)
+- Teaching Assistant of _IF2036 Software Engineering_ & _IF3150 Software Project Management_ courses at ITB (Spring 2014, Fall 2014)
 
 
 ## References
