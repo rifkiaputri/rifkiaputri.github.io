@@ -39,35 +39,19 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 
 ## Publications
-- **IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension**
+- **Rifki Afina Putri**, Alice Oh, _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022)
   <br>
-  **Rifki Afina Putri**, Alice Oh
-  <br>
-  Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2022**)
-  <br>
-  <strong><i style="color:#e74d3c">Long Paper</i></strong>
+  [PDF][[Code](https://github.com/rifkiaputri/IDK-MRC)] <strong><i style="color:#e74d3c">Long Paper</i></strong>
 
-- **Rethinking Annotation: Can Language Learners Contribute?**
-  <br>
-  Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh
-  <br>
-  _Under Review_
+- Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, _"Rethinking Annotation: Can Language Learners Contribute?"_ (Under Review)
   <br>
   [[arXiv](https://arxiv.org/abs/2210.06828)]
 
-- **Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding**
-  <br>
-  **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng
-  <br>
-  Proceedings of the 13th International Conference on Computational Semantics (**IWCS 2019**)
+- **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng, _"Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"_ (IWCS 2019)
   <br>
   [[PDF](https://www.aclweb.org/anthology/W19-0412.pdf)] [[Code](https://github.com/rifkiaputri/Relation-Aligner)] <strong><i style="color:#e74d3c">Long Paper</i></strong>
   
-- **Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping**
-  <br>
-  **Rifki Afina Putri**, Dessi Puji Lestari
-  <br>
-  The 5th International Conference on Electrical Engineering and Informatics. (**ICEEI 2015**)
+- **Rifki Afina Putri**, Dessi Puji Lestari, _"Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping"_ (ICEEI 2015)
   <br>
   [[PDF](https://ieeexplore.ieee.org/document/7352471)] [[Code](https://github.com/rifkiaputri/MidiMatcher)]
 
