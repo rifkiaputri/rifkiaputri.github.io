@@ -29,7 +29,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 ## Publications
 - **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
   <br>
-  [PDF][[Code](https://github.com/rifkiaputri/IDK-MRC)]
+  [[arXiv](https://arxiv.org/abs/2210.13778)][[Code](https://github.com/rifkiaputri/IDK-MRC)][[Dataset](https://huggingface.co/datasets/rifkiaputri/idk-mrc)]
 
 - Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (2022, Under Review)
   <br>
@@ -59,10 +59,14 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   
 ## Teaching & Talks Experiences
 - Teaching Assistant of _CS475 Machine Learning for Natural Language Processing_ course at KAIST (Fall 2022)
-- Guest Lecture of _IF5282 Natural Language Processing_ & _IF5182 Knowledge Representation and Reasoning_ courses at ITB (March 2019, April 2021)
+- Guest Lecturer of _IF5282 Natural Language Processing_ & _IF5182 Knowledge Representation and Reasoning_ courses at ITB (March 2019, April 2021)
 - Speaker of _Facebook Developer Circle Bandung November 2019 Meetup_, Facebook APAC Panel Discussion: Women in Tech (November 2019)
 - Head Teaching Assistant of _IF3250 Software Project_ course at ITB (Spring 2015)
 - Teaching Assistant of _IF2036 Software Engineering_ & _IF3150 Software Project Management_ courses at ITB (Spring 2014, Fall 2014)
+
+
+## Academic Services
+- Microblogging Volunteer at ACL-IJCNLP 2021
 
 
 ## References
