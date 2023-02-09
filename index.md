@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/). My current research interests are Natural Language Processing, especially in the area of question answering and low-resource languages.
+Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/) advised by [Alice Oh](https://aliceoh9.github.io/). My current research interests are Natural Language Processing, especially in the area of question answering and low-resource languages.
 
 
 ## Education
@@ -29,7 +29,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 ## Publications
 - **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
   <br>
-  [[arXiv](https://arxiv.org/abs/2210.13778)][[Code](https://github.com/rifkiaputri/IDK-MRC)][[Dataset](https://huggingface.co/datasets/rifkiaputri/idk-mrc)]
+  [[PDF](https://aclanthology.org/2022.emnlp-main.465/)][[Code](https://github.com/rifkiaputri/IDK-MRC)][[Dataset](https://huggingface.co/datasets/rifkiaputri/idk-mrc)]
 
 - Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (2022, Under Review)
   <br>
@@ -67,11 +67,9 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 ## Academic Services
 - Microblogging Volunteer at ACL-IJCNLP 2021
+- Student Volunteer at EMNLP 2022
 
 
 ## References
 
 - [Alice Oh](https://aliceoh9.github.io/). School of Computing, KAIST, South Korea.
-- [Sung-Hyon Myaeng](http://ir.kaist.ac.kr/member/professor/). School of Computing, KAIST, South Korea.
-- Dessi Puji Lestari. Informatics/Computer Science - School of Electrical Engineering and Informatics, ITB, Indonesia.
-- Ayu Purwarianti. Prosa.ai.
