@@ -29,11 +29,11 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 ## Publications
 - Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (ACL 2023, Long Paper)
   <br>
-  [[arXiv](https://arxiv.org/abs/2210.06828)]
+  [[PDF](https://aclanthology.org/2023.acl-long.822/)]
   
 - Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Indra Winata, Bryan Wilie, and others. _"NusaCrowd: Open Source Initiative for Indonesian NLP Resources"_ (ACL-Findings 2023, Long Paper)
-  <br>
-  [[arXiv](https://arxiv.org/abs/2212.09648)]
+  <be>
+  [[PDF](https://aclanthology.org/2023.findings-acl.868/)][[Code](https://github.com/IndoNLP/nusa-crowd)]
   
 - **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
   <br>
