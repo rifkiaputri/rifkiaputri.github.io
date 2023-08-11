@@ -32,12 +32,12 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   [[PDF](https://aclanthology.org/2023.acl-long.822/)]
   
 - Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Indra Winata, Bryan Wilie, and others. _"NusaCrowd: Open Source Initiative for Indonesian NLP Resources"_ (ACL-Findings 2023, Long Paper)
-  <be>
-  [[PDF](https://aclanthology.org/2023.findings-acl.868/)][[Code](https://github.com/IndoNLP/nusa-crowd)]
+  <br>
+  [[PDF](https://aclanthology.org/2023.findings-acl.868/)] [[Code](https://github.com/IndoNLP/nusa-crowd)]
   
 - **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
   <br>
-  [[PDF](https://aclanthology.org/2022.emnlp-main.465/)][[Code](https://github.com/rifkiaputri/IDK-MRC)][[Dataset](https://huggingface.co/datasets/rifkiaputri/idk-mrc)]
+  [[PDF](https://aclanthology.org/2022.emnlp-main.465/)] [[Code](https://github.com/rifkiaputri/IDK-MRC)] [[Dataset](https://huggingface.co/datasets/rifkiaputri/idk-mrc)]
 
 - **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng. _"Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"_ (IWCS 2019, Long Paper)
   <br>
