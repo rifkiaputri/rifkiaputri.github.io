@@ -72,6 +72,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 ## Academic Services
 - Microblogging Volunteer at ACL-IJCNLP 2021
 - Student Volunteer at EMNLP 2022
+- Reviewer at AACL-SRW 2023, ARR Oct 2023
 
 
 ## References
