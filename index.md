@@ -27,11 +27,15 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 
 ## Publications
+- **Rifki Afina Putri**, Faiz Ghifari Haznitrama, Dea Adhista, Alice Oh. _"Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"_ (2024, under review)
+  <br>
+  [[arXiv](https://arxiv.org/abs/2402.17302)][[Code](https://github.com/rifkiaputri/id-csqa)]
+  
 - Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (ACL 2023, Long Paper)
   <br>
   [[PDF](https://aclanthology.org/2023.acl-long.822/)]
   
-- Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Indra Winata, Bryan Wilie, and others. _"NusaCrowd: Open Source Initiative for Indonesian NLP Resources"_ (ACL-Findings 2023, Long Paper)
+- Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Indra Winata, Bryan Wilie, Fajri Koto, and others. _"NusaCrowd: Open Source Initiative for Indonesian NLP Resources"_ (ACL-Findings 2023, Long Paper)
   <br>
   [[PDF](https://aclanthology.org/2023.findings-acl.868/)][[Code](https://github.com/IndoNLP/nusa-crowd)]
   
@@ -62,6 +66,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   
   
 ## Teaching & Talks Experiences
+- Teaching Assistant of _The Many Voices of ChatGPT: Exploring Linguistic Diversity_ project at KAIST (Spring--Fall 2023)
 - Teaching Assistant of _CS475 Machine Learning for Natural Language Processing_ course at KAIST (Fall 2022)
 - Guest Lecturer of _IF5282 Natural Language Processing_ & _IF5182 Knowledge Representation and Reasoning_ courses at ITB (March 2019, April 2021)
 - Speaker of _Facebook Developer Circle Bandung November 2019 Meetup_, Facebook APAC Panel Discussion: Women in Tech (November 2019)
@@ -72,7 +77,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 ## Academic Services
 - Microblogging Volunteer at ACL-IJCNLP 2021
 - Student Volunteer at EMNLP 2022
-- Reviewer at AACL-SRW 2023, ARR Oct 2023
+- Reviewer at AACL-SRW (2023), ARR (Oct 2023--current)
 
 
 ## References
