@@ -26,18 +26,18 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   Advisor: Dessi Puji Lestari
 
 
-## Publications
+## Selected Publications ([Google Scholar](https://scholar.google.com/citations?hl=en&user=FsBF4xwAAAAJ))
 - **Rifki Afina Putri**, Faiz Ghifari Haznitrama, Dea Adhista, Alice Oh. _"Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"_ (2024, under review)
   <br>
   [[arXiv](https://arxiv.org/abs/2402.17302)][[Code](https://github.com/rifkiaputri/id-csqa)]
+
+- Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, **Rifki Afina Putri**\*, and others. _"Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"_ (2024, under review)
+  <br>
+  [[arXiv](https://arxiv.org/abs/2404.06138)]
   
 - Haneul Yoo, **Rifki Afina Putri**, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh. _"Rethinking Annotation: Can Language Learners Contribute?"_ (ACL 2023, Long Paper)
   <br>
   [[PDF](https://aclanthology.org/2023.acl-long.822/)]
-  
-- Samuel Cahyawijaya, Holy Lovenia, Alham Fikri Aji, Genta Indra Winata, Bryan Wilie, Fajri Koto, and others. _"NusaCrowd: Open Source Initiative for Indonesian NLP Resources"_ (ACL-Findings 2023, Long Paper)
-  <br>
-  [[PDF](https://aclanthology.org/2023.findings-acl.868/)][[Code](https://github.com/IndoNLP/nusa-crowd)]
   
 - **Rifki Afina Putri**, Alice Oh. _"IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"_ (EMNLP 2022, Long Paper)
   <br>
@@ -46,10 +46,6 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 - **Rifki Afina Putri**, Giwon Hong, Sung-Hyon Myaeng. _"Aligning Open IE Relations and KB Relations using a Siamese Network Based on Word Embedding"_ (IWCS 2019, Long Paper)
   <br>
   [[PDF](https://www.aclweb.org/anthology/W19-0412.pdf)][[Code](https://github.com/rifkiaputri/Relation-Aligner)]
-  
-- **Rifki Afina Putri**, Dessi Puji Lestari. _"Music Information Retrieval using Query-by-Humming based on the Dynamic Time Warping"_ (ICEEI 2015)
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/document/7352471)][[Code](https://github.com/rifkiaputri/MidiMatcher)]
 
 
 ## Work Experiences
