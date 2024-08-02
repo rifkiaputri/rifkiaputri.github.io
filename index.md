@@ -31,7 +31,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   <br>
   [[arXiv](https://arxiv.org/abs/2402.17302)][[Code](https://github.com/rifkiaputri/id-csqa)]
 
-- Samuel Cahyawijaya\*, Holy Lovenia\*, Fajri Koto\*, **Rifki Afina Putri**\*, and others. _"Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"_ (2024, under review)
+- Samuel Cahyawijaya\*, Holy Lovenia\*, Fajri Koto\*, **Rifki Afina Putri**\*, and others. _"Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"_ (ACL 2024, Long Paper)
   <br>
   [[arXiv](https://arxiv.org/abs/2404.06138)]
   
@@ -72,7 +72,7 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
 
 ## Academic Services
 - Microblogging Volunteer at ACL-IJCNLP 2021
-- Student Volunteer at EMNLP 2022
+- Student Volunteer at EMNLP 2022, ACL 2024
 - Reviewer at AACL-SRW (2023), ARR (Oct 2023--current)
 
 
