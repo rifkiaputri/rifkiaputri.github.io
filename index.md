@@ -4,20 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab.kr/) advised by [Alice Oh](https://aliceoh9.github.io/). My current research interests are Natural Language Processing, especially in the area of question answering and low-resource languages.
 
-## Research Interests
+## Education
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- Ph.D. in School of Computing, KAIST, South Korea
+  <br>
+  Sep 2020--current
+  <br>
+  Advisor: Alice Oh
+- M.S. in School of Computing, KAIST, South Korea
+  <br>
+  Mar 2017--Feb 2019
+  <br>
+  Advisor: Sung-Hyon Myaeng
+- B.Eng. in Informatics/Computer Science, ITB, Indonesia
+  <br>
+  Aug 2011--Jul 2015
+  <br>
+  Advisor: Dessi Puji Lestari
 
 {% include_relative _includes/publications.md %}
+
+## Work Experiences
+
+- NLP/AI Engineer at [Prosa.ai](https://prosa.ai/)
+  <br>
+  Apr 2019--Jul 2020
+- Software Engineer at [Urbanindo](https://urbanindo.com/)
+  <br>
+  Sep 2015--Feb 2017
+- Intern Programmer at [NoLimit](https://nolimit.id/)
+  <br>
+  Jun 2014--Jul 2014
 
 {% include_relative _includes/services.md %}
