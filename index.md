@@ -38,4 +38,17 @@ Hi! I am a Ph.D. candidate at the [Users & Information lab, KAIST](https://uilab
   <br>
   Jun 2014--Jul 2014
 
+## Teaching & Talks Experiences
+
+- Teaching Assistant of _The Many Voices of ChatGPT: Exploring Linguistic Diversity_ project at KAIST (Spring--Fall 2023)
+- Teaching Assistant of _CS475 Machine Learning for Natural Language Processing_ course at KAIST (Fall 2022)
+- Guest Lecturer of _IF5282 Natural Language Processing_ & _IF5182 Knowledge Representation and Reasoning_ courses at ITB (March 2019, April 2021)
+- Speaker of _Facebook Developer Circle Bandung November 2019 Meetup_, Facebook APAC Panel Discussion: Women in Tech (November 2019)
+- Head Teaching Assistant of _IF3250 Software Project_ course at ITB (Spring 2015)
+- Teaching Assistant of _IF2036 Software Engineering_ & _IF3150 Software Project Management_ courses at ITB (Spring 2014, Fall 2014)
+
 {% include_relative _includes/services.md %}
+
+## References
+
+- [Alice Oh](https://aliceoh9.github.io/). School of Computing, KAIST, South Korea.
