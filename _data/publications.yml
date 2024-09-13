@@ -20,7 +20,7 @@ main:
     notes: Best Non-Archival Papers @ C3NLP Workshop 2024
 
   - title: "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"
-    authors: Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, <strong>Rifki Afina Putri*</strong>, Wawan Cenggoro, Jhonson Lee, Salsabil Akbar, Emmanuel Dave, Nuurshadieq Nuurshadieq, Muhammad Mahendra, Rr Putri, Bryan Wilie, Genta Winata, Alham Aji, Ayu Purwarianti, Pascale Fung
+    authors: Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, <strong>Rifki Afina Putri*</strong>, Emmanuel Dave, Jhonson Lee, Nuur Shadieq, Wawan Cenggoro, Salsabil Maulana Akbar, Muhammad Ihza Mahendra, Dea Annisayanti Putri, Bryan Wilie, Genta Indra Winata, Alham Fikri Aji, Ayu Purwarianti, Pascale Fung
     conference_short: ACL
     conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
     pdf: https://aclanthology.org/2024.acl-long.796/
