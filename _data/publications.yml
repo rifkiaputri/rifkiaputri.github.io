@@ -1,22 +1,44 @@
 main:
+  - title: "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"
+    authors: <strong>Rifki Afina Putri</strong>, Faiz Ghifari Haznitrama, Dea Adhista, Alice Oh
+    conference_short: arXiv
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2402.17302
+    code: https://github.com/rifkiaputri/id-csqa
+    dataset: https://huggingface.co/collections/rifkiaputri/indonesian-and-sundanese-commonsenseqa-666abfe6e9fa3d54052c99b8
+    image: ./assets/img/id_csqa.jpg
+    notes: Presented @ C3NLP Workshop 2024
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"
+    authors: Junho Myung*, Nayeon Lee*, Yi Zhou*, Jiho Jin, <strong>Rifki Afina Putri</strong>, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
+    conference_short: arXiv
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2406.09948
+    code: https://github.com/nlee0212/blend
+    dataset: https://huggingface.co/datasets/nayeon212/BLEnD
+    image: ./assets/img/blend.png
+    notes: Presented @ C3NLP Workshop 2024 (Best Non-Archival Papers)
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"
+    authors: Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, <strong>Rifki Afina Putri*</strong>, Wawan Cenggoro, Jhonson Lee, Salsabil Akbar, Emmanuel Dave, Nuurshadieq Nuurshadieq, Muhammad Mahendra, Rr Putri, Bryan Wilie, Genta Winata, Alham Aji, Ayu Purwarianti, Pascale Fung
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.acl-long.796/
+    code: https://github.com/IndoNLP/cendol
+    image: ./assets/img/cendol.png
+
+  - title: "Rethinking Annotation: Can Language Learners Contribute?"
+    authors: Haneul Yoo, <strong>Rifki Afina Putri</strong>, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh
+    conference_short: ACL
+    conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2023.
+    pdf: https://aclanthology.org/2023.acl-long.822/
+    image: ./assets/img/lang_learner.png
+
+  - title: "IDK-MRC: Unanswerable Questions for Indonesian Machine Reading Comprehension"
+    authors: <strong>Rifki Afina Putri</strong>, Alice Oh
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://aclanthology.org/2022.emnlp-main.465/
+    code: https://github.com/rifkiaputri/IDK-MRC
+    dataset: https://huggingface.co/datasets/rifkiaputri/idk-mrc
+    image: ./assets/img/idk_mrc.png
