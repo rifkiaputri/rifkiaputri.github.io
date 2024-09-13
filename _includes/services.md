@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://aacl2023-srw.github.io/"><autocolor>AACL Student Research Workshop (2023)</autocolor></a></li>
-  <li><a href="https://aclrollingreview.org/"><autocolor>ACL Rolling Review (Oct 2023--current)</autocolor></a></li>
+  <li><a href="https://aclrollingreview.org/"><autocolor>ACL Rolling Review (Oct 2023–current)</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks"><autocolor>NeurIPS Datasets and Benchmarks Track (2024)</autocolor></a></li>
 </ul>
 
