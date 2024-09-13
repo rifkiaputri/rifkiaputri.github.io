@@ -17,7 +17,7 @@ main:
     code: https://github.com/nlee0212/blend
     dataset: https://huggingface.co/datasets/nayeon212/BLEnD
     image: ./assets/img/blend.png
-    notes: Presented @ C3NLP Workshop 2024 (Best Non-Archival Papers)
+    notes: Best Non-Archival Papers @ C3NLP Workshop 2024
 
   - title: "Cendol: Open Instruction-tuned Generative Large Language Models for Indonesian Languages"
     authors: Samuel Cahyawijaya*, Holy Lovenia*, Fajri Koto*, <strong>Rifki Afina Putri*</strong>, Wawan Cenggoro, Jhonson Lee, Salsabil Akbar, Emmanuel Dave, Nuurshadieq Nuurshadieq, Muhammad Mahendra, Rr Putri, Bryan Wilie, Genta Winata, Alham Aji, Ayu Purwarianti, Pascale Fung
