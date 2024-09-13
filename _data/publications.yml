@@ -9,8 +9,8 @@ main:
     image: ./assets/img/id_csqa.jpg
     notes: Presented @ C3NLP Workshop 2024
 
-  - title: "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"
-    authors: Junho Myung*, Nayeon Lee*, Yi Zhou*, Jiho Jin, <strong>Rifki Afina Putri</strong>, Dimosthenis Antypas, Hsuvas Borkakoty, Eunsu Kim, Carla Perez-Almendros, Abinew Ali Ayele, Víctor Gutiérrez-Basulto, Yazmín Ibáñez-García, Hwaran Lee, Shamsuddeen Hassan Muhammad, Kiwoong Park, Anar Sabuhi Rzayev, Nina White, Seid Muhie Yimam, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh
+  - title: "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages"
+    authors: Junho Myung*, Nayeon Lee*, Yi Zhou*, Jiho Jin, <strong>Rifki Afina Putri</strong>, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh, and others
     conference_short: arXiv
     conference: Under Review
     pdf: https://arxiv.org/abs/2406.09948
