@@ -1,7 +1,9 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
-<p>Please refer to my <a href="https://scholar.google.com/citations?hl=en&user=FsBF4xwAAAAJ">Google Scholar page</a> for the complete publications.</p>
 
 <div class="publications">
+<p>Please refer to my <a href="https://scholar.google.com/citations?hl=en&user=FsBF4xwAAAAJ">Google Scholar page</a> for the complete publications.</p>
+
+
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
