@@ -11,7 +11,6 @@
 <h4 style="margin:0 10px 0;">Volunteer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://2021.aclweb.org/"><autocolor>Microblogging Volunteer at ACL-IJCNLP 2021</autocolor></a></li>
-  <li><a href="https://2022.emnlp.org/"><autocolor>Student Volunteer at EMNLP 2022</autocolor></a></li>
-  <li><a href="https://2024.aclweb.org/"><autocolor>Student Volunteer at ACL 2024</autocolor></a></li>
+  <li>Microblogging Volunteer at ACL-IJCNLP 2021</li>
+  <li>Student Volunteer at EMNLP 2022, ACL 2024</li>
 </ul>
