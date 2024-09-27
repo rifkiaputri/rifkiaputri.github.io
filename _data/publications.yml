@@ -1,18 +1,17 @@
 main:
   - title: "Can LLM Generate Culturally Relevant Commonsense QA Data? Case Study in Indonesian and Sundanese"
     authors: <strong>Rifki Afina Putri</strong>, Faiz Ghifari Haznitrama, Dea Adhista, Alice Oh
-    conference_short: arXiv
-    conference: Under Review
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://arxiv.org/abs/2402.17302
     code: https://github.com/rifkiaputri/id-csqa
     dataset: https://huggingface.co/collections/rifkiaputri/indonesian-and-sundanese-commonsenseqa-666abfe6e9fa3d54052c99b8
     image: ./assets/img/id_csqa.jpg
-    notes: Presented @ C3NLP Workshop 2024
 
   - title: "BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages"
     authors: Junho Myung*, Nayeon Lee*, Yi Zhou*, Jiho Jin, <strong>Rifki Afina Putri</strong>, Mohammad Taher Pilehvar, Nedjma Ousidhoum, Jose Camacho-Collados, Alice Oh, and others
-    conference_short: arXiv
-    conference: Under Review
+    conference_short: NeurIPS D&B
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, Datasets and Benchmarks Track, 2024
     pdf: https://arxiv.org/abs/2406.09948
     code: https://github.com/nlee0212/blend
     dataset: https://huggingface.co/datasets/nayeon212/BLEnD
