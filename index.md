@@ -11,8 +11,9 @@ My research focuses on Natural Language Processing (NLP), particularly in questi
 ## News
 - **[Feb. 2025]** I graduated Ph.D. from KAIST and actively started my position as a lecturer at Universitas Gadjah Mada.
 - **[Jan. 2025]** Our paper [WorldCuisines](https://arxiv.org/pdf/2410.12705) was accepted to NAACL 2025!
+- **[Dec. 2024]** I co-organize the **Language Models for Underserved Communities (LM4UC) Workshop**, which will be co-located with NAACL 2025. Find out more [here](https://lm4uc.github.io/)!
+- **[Dec. 2024]** I join **Grassroot Science** and co-lead the data collection effort. Find out more about the initiative [here](https://grassroots.science/)!
 - **[Dec. 2024]** Successfully defended my Ph.D. dissertation, where I focused on developing data generation and evaluation frameworks for  Question Answering systems in Indonesian and Sundanese languages.
-- **[Dec. 2024]** I co-organize the Language Models for Underserved Communities (LM4UC) Workshop, which will be co-located with NAACL 2025. Find out more [here](https://lm4uc.github.io/)!
 - **[Nov. 2024]** Attended EMNLP 2024 in Miami to present our paper on [Indonesian and Sundanese Commonsense QA](https://aclanthology.org/2024.emnlp-main.1145/).
 - **[Sep. 2024]** Our paper on [Indonesian and Sundanese Commonsense QA](https://aclanthology.org/2024.emnlp-main.1145/) was accepted to EMNLP 2024!
 - **[Aug, 2024]** Attended ACL 2024 in Bangkok to present one Findings paper and two workshop papers at the C3NLP Workshop. Our [BLEnD paper](https://arxiv.org/abs/2406.09948) won the Best Paper Award at C3NLP!
