@@ -9,7 +9,7 @@ Hi! I am a lecturer in the [Department of Computer Science and Electronics (DCSE
 My research focuses on Natural Language Processing (NLP), particularly in question answering and underrepresented languages. I am passionate about developing NLP technologies that bridge the gap between high and underrepresented languages, making AI more inclusive and accessible to diverse communities.
 
 ## News
-- **[Feb. 2025]** I graduated Ph.D. from KAIST and actively started my position as a lecturer at Universitas Gadjah Mada.
+- **[Feb. 2025]** I graduated Ph.D. from KAIST and starting my position as a lecturer at Universitas Gadjah Mada.
 - **[Jan. 2025]** Our paper [WorldCuisines](https://arxiv.org/pdf/2410.12705) was accepted to NAACL 2025!
 - **[Dec. 2024]** I co-organize the **Language Models for Underserved Communities (LM4UC) Workshop**, which will be co-located with NAACL 2025. Find out more [here](https://lm4uc.github.io/)!
 - **[Dec. 2024]** I join **Grassroots Science** and co-lead the data collection effort. Find out more about the initiative [here](https://grassroots.science/)!
