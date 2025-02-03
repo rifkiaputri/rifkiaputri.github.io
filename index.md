@@ -16,7 +16,7 @@ My research focuses on Natural Language Processing (NLP), particularly in questi
 - **[Dec. 2024]** Successfully defended my Ph.D. dissertation, where I focused on developing data generation and evaluation frameworks for  Question Answering systems in Indonesian and Sundanese languages.
 - **[Nov. 2024]** Attended EMNLP 2024 in Miami to present our paper on [Indonesian and Sundanese Commonsense QA](https://aclanthology.org/2024.emnlp-main.1145/).
 - **[Sep. 2024]** Our paper on [Indonesian and Sundanese Commonsense QA](https://aclanthology.org/2024.emnlp-main.1145/) was accepted to EMNLP 2024!
-- **[Aug, 2024]** Attended ACL 2024 in Bangkok to present one Findings paper and two workshop papers at the C3NLP Workshop. Our [BLEnD paper](https://arxiv.org/abs/2406.09948) won the Best Paper Award at C3NLP!
+- **[Aug. 2024]** Attended ACL 2024 in Bangkok to present one Findings paper and two workshop papers at the C3NLP Workshop. Our [BLEnD paper](https://arxiv.org/abs/2406.09948) won the Best Paper Award at C3NLP!
 
 {% include_relative _includes/publications.md %}
 
